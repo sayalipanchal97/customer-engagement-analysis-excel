@@ -11,15 +11,15 @@ This project aims to analyze customer engagement within the 365 company's platfo
 ### Methodology
 The analysis was conducted through the following tasks:
 
-1. **Descriptive Statistics **:
+1. Descriptive Statistics:
    To summarize the engagement data of students,
    - Calculated measures of central tendency(mean, median, standard deviation) 
    - Calculated measures of shape (skewness, kurtosis).
 
-2. **Confidence Interval **:
+2. Confidence Interval:
    - Established a confidence interval for the average engagement time of students, allowing for a better understanding of the variability and reliability of the data.
 
-3. **Hypothesis Testing **:
+3. Hypothesis Testing:
    - Performed statistical hypothesis testing to evaluate the impact of the platform's new features to determine whether the platform’s new features contribute to the increase of minutes watched on the platform for both free-plan and paying students,
    - Evaluated whether the average number of minutes watched in the US is similar to that in India, comparing engagement levels across these two regions.
 
